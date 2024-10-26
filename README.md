@@ -5,7 +5,6 @@ This is a 6D object pose estimation network via weighted feature fusion of RGB, 
 # Compiling
 
 The program was trained and tested under a 64-bit Linux distribution.(Ubuntu 20.04)  
-The code depends on DenseFusion, MaskedFusion, normalSpeed
 
 # Training
 
